@@ -37,4 +37,4 @@ alert('The action taken was: See index of Cindy\n Her index is ' + pos2 + '. \n 
 
 else if (selectedFunction == 7)
 alert(withMarmaduke) 
-} 
+}      
